@@ -1,5 +1,5 @@
 # sqlJAP
-Ejercicios de la semana 13 JAP
-Ignacio Silva. 
-Tesgint
-Tutor: Carlos da Rosa.
+Ejercicios de la semana 13 JAP <br>
+Ignacio Silva. <br>
+Testing <br>
+Tutor: Carlos da Rosa. 
